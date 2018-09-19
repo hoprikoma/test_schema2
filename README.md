@@ -1,2 +1,2 @@
 test_schema2
-mouai
+bonjour
