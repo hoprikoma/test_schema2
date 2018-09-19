@@ -1,2 +1,2 @@
 test_schema2
-bonjour
+bonjour :D
